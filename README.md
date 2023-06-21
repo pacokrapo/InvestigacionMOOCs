@@ -3,7 +3,7 @@ Investigación de bases de datos de Coursera, EDX y Udemy
 
 
 En el presente repositorio se encuentra el segundo trabajo realizado para Labs de Soy Henry.
-En este proyecto, llevé a cabo una investigación utilizando datos proporcionados de tres organizaciones dedicadas a brindar cursos en línea: Coursera, EDX y Udemy.
+En este proyecto, llevé a cabo una investigación utilizando datos proporcionados por tres organizaciones dedicadas a brindar cursos en línea: Coursera, EDX y Udemy.
 Cada base de datos tenía características propias, ya que cada organización ofrece el servicio y es redituada a su manera.
 En los tres casos, mi objetivo fue identificar un grupo de aproximadamente 30 cursos que se pudieran considerar más exitosos en comparación con los demás, ya sea por cantidad de suscriptores, como por buen índice de satisfacción de los alumnos.
 
